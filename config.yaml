@@ -29,7 +29,7 @@ menu:
       url: /research/
       weight: 3
       
-    - identifier: about
+    - identifier: faq
       name: About Me
       url: /about/
       weight: 4
@@ -44,14 +44,18 @@ menu:
       pre: <i class='fab fa-2x fa-github'></i>
       url: https://github.com/kmillage
       weight: 1
+    - name: Instagram
+      pre: <i class='fab fa-2x fa-instagram'></i>
+      url: https://www.instagram.com/katmillage/
+      weight: 2
     - name: Twitter
       pre: <i class='fab fa-2x fa-twitter'></i>
       url: https://twitter.com/katmillage?lang=en
-      weight: 2
+      weight: 3
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
       url: mailto:millagek@gmail.com
-      weight: 3
+      weight: 4
       
 ### Parameters -------------------
 
@@ -70,6 +74,8 @@ params:
     #   class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
     
   # Section 2 - Menu Bar  
+  logo: 'img/name_logo.png'
+  logo_small: 'img/name_logo_small.png'
   
   # Section 3 - Photo Carousel    
   carousel:
@@ -91,7 +97,7 @@ params:
     icon: img/kat.jpg
     link_text: Visit My Photography Site
     link_url: 'https://katmillage.smugmug.com/'
-    subtitle: "Welecome to my website! I'm a researcher with the Environmental Market Solutions Lab (emLab) at UCSB.
+    subtitle: "Welecome to my website! I'm currently a researcher with the Environmental Market Solutions Lab (emLab) at UCSB. <br>
     This site is a place for me to share materials related to my professional activities in the realms of fisheries management and data science. 
     If you're interested in my photogography, please visit my other site!"   
     title: "Kat Millage"
@@ -137,8 +143,6 @@ params:
   formspree_action: https://formspree.io/sample/of/endpoint
   googleMapsApiKey: AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y
   latitude: '-12.043333'
-  logo: ''
-  logo_small: ''
   longitude: '-77.028333'
   mainSections: blog
   twitter_site: GoHugoIO
