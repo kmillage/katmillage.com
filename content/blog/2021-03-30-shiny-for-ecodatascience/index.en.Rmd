@@ -1,0 +1,16 @@
+---
+title: "Presentation: Shiny for R"
+author: "Kat Millage"
+date: 2021-03-30T21:13:14-05:00
+categories: ["R"]
+tags: ["Shiny"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Shiny for R: Making your apps more efficient and more effective
+
+Figure out how to link to the presentation here. 
+
