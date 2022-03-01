@@ -73,7 +73,7 @@ params:
   # Sidebar
   sidebar:
     about: '' # Text under the about section...
-    categories: yes # Show categories section? 
+    categories: no # Show categories section? 
     categoriesByCount: yes # Show counts of posts by categories?
     postAmount: 0
   

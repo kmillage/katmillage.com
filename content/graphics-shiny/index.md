@@ -26,6 +26,10 @@ I have also developed and contributed to a number of other *Shiny* apps that are
 
 Many of the infographics, conceptual diagrams, and other graphics I make are intended to serve as figures or visual abstracts for scientific papers and are highlighted in my blog whenever the cooresponding paper is published. Nonetheless, the following are a few samples of the types of graphics I have created: 
 
+<hr>
+
 ![](cobi_policy_brief_infographic.png)
 
-![]
+<hr>
+
+![](figure_1_final.png)
