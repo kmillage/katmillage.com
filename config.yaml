@@ -55,13 +55,13 @@ params:
       shape: circle
       src: img/main/kat.jpg
       width: '200' # Width of picture in pixels
-    rssIntro: yes
+    rssIntro: no
     socialIntro: yes
   jsFiles: [default]
   meta:
     author: HTML5UP and Hugo
     description: A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced
-      by Patrick Collins. Modified by Kat Millage. Powered by Hugo.
+      by Patrick Collins. Destroyed by Kat Millage. Powered by Hugo.
     favicon: no
     faviconVersion: '1'
     iOSColor: '#ffffff'
@@ -125,7 +125,7 @@ menu:
     #   url: research
     #   weight: 5
     - identifier: graphics-shiny
-      name: Graphics & Shiny Apps
+      name: Shiny Apps & Graphics
       pre: <i class='fas fa-sitemap'></i>
       url: graphics-shiny
       weight: 6
@@ -133,7 +133,7 @@ menu:
       name: Photography
       pre: <i class='fas fa-image'></i>
       url: "https://katmillage.smugmug.com/"
-      weight: 6
+      weight: 7
     # - identifier: contact
     #   name: Contact
     #   pre: <i class='far fa-envelope'></i>

@@ -24,6 +24,14 @@ I received my B.A. in Biochemistry with a minor in Environmental Science from th
 
 I am available for consulting contracts regarding fisheries, environmental data science, marine conservation, Shiny app development, and creation of materials to aid in science communications  and other graphic design. Please [contact me directly by email](mailto:millagek@gmail.com) if you would like to discuss a potential consulting contract. 
 
-### Selected Publications
+### Recent Publications
 
+* ***Millage, K. D.***, Villaseñor-Derbez, J. C., Bradley, D., Burgess, M. G., Lenihan, H. S., & Costello, C. (2021). Self-financed marine protected areas. Environmental Research Letters, 16(12). https://doi.org/10.1088/1748-9326/ac3439
 
+* Sumaila, U. R., Skerritt, D. J., Schuhbauer, A., Villasante, S., Cisneros-Montemayor, A. M., Sinan, H., Burnside, D., ... ***Millage, K. D.***, ...Zeller, D. (2021). WTO must ban harmful fisheries subsidies. Science, 374(6567), 544–544. https://doi.org/10.1126/science.abm1680
+
+* Halpern, B. S., Maier, J., Lahr, H. J., Blasco, G., Costello, C., Cottrell, R. S., Deschenes, O., Ferraro, D. M., Froehlich, H. E., McDonald, G. G., ***Millage, K. D.***, & Weir, M. J. (2021). The long and narrow path for novel cell-based seafood to reduce fishing pressure for marine ecosystem recovery. Fish and Fisheries, 13.
+
+* Ovando, D., Libecap, G. D., ***Millage, K. D.***, & Thomas, L. (2020). Coasean Approaches to Address Overfishing: Bigeye Tuna Conservation in the Western and Central Pacific Ocean. Marine Resource Economics, 36(1), 91–109. https://doi.org/10.1086/711853
+
+* Costello, C., ***Millage, K.***, Eisenbarth, S., Galarza, E., Ishimura, G., Rubino, L. L., Saccomanno, V., Sumaila, U. R., & Strauss, K. (2020). Ambitious subsidy reform by the WTO presents opportunities for ocean health restoration. Sustainability Science. https://doi.org/10.1007/s11625-020-00865-z
