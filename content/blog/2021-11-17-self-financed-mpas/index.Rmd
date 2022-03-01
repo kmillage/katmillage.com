@@ -5,6 +5,7 @@ description: "New paper published in Environmental Research Letters!"
 date: 2021-11-17T21:13:14-05:00
 categories: ["Publications"]
 tags: ["enforcement", "environmental institutions", "marine conservation", "marine reserves", "market-based interventions", "sustainable financing", "sustainable development goals"]
+images: [src: "/blog/2021-11-17-self-financed-mpas/header.jpeg"]
 ---
 
 ```{r setup, include=FALSE}
@@ -13,4 +14,23 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ### About the Paper 
 
-In our new paper, just published in Environmental Research Letters, we propose a new institution to finance enforcmeent of marine protected areas (MPAs)---a 'conservation finance area' (CFA)---where limited fishing leases are allowed and the lease money finances enforcmeent of the MPA.
+A new paper that I led in collaboration with Juan Carlos Villaseñor-Derbez, Darcy Bradley, Matthew Burgess, Hunter Lenihan, and Christopher Costello was just published in Environmental Research Letters! In [this new paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac3439) entitled "Self-financed marine protected areas" we propose a new institution to finance enforcement of marine protected areas (MPAs)---a 'conservation finance area' (CFA)---where limited fishing leases are allowed and the lease money finances enforcement of the MPA. 
+
+![](Fig1.png)
+
+### Key Findings
+
+Using a bioeconomic model we show that CFAs can fully finance MPA enforcement, deter illegal fishing, and ultimately maximize fish biomass. Moreover, we show that unless a large, exogenous, and perpetual enforcement budget is available, implementing a CFA in a no-take MPA always results in high biomass than without. </br> 
+
+<p style="text-align: center;">
+![](Fig2.png)
+</p>
+
+We conclude by exploring the real-world enabling conditions that would support such an institution, and highlight some real-world systems that share many features with CFAs to suggest that our proposed institution is a viable policy solution. 
+
+### Media 
+
+The following articles provide coverage of our paper:
+
+- November 30, 2021 - Science: [A provacative proposal: sell fishing rights in protected areas to prevent poaching](https://www.science.org/content/article/provocative-proposal-sell-fishing-rights-protected-seas-prevent-poaching)
+- December 22, 2021 - Hakai Magazine: [How Marine Protected Areas Can Pay for Their Own Protection](https://hakaimagazine.com/news/how-mpas-can-pay-for-their-own-protection/)

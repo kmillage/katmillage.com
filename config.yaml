@@ -35,7 +35,7 @@ params:
   header:
     dynamicTitles: no # Do you want the title bar to update on each page?
     languageMenu: no # Show language menu?
-    navbarTitle: 'Kat Millage' # Text for top left box of header bar
+    navbarTitle: '' # Text for top left box of header bar
     searchMenu: no # Show search bar?
     shareMenu: no # Show share menu?
   hideEmptyStats: yes # Don't know where this goes yet...
@@ -73,9 +73,9 @@ params:
   # Sidebar
   sidebar:
     about: '' # Text under the about section...
-    categories: no # Show categories section? 
-    categoriesByCount: no # Show counts of posts by categories?
-    postAmount: 5
+    categories: yes # Show categories section? 
+    categoriesByCount: yes # Show counts of posts by categories?
+    postAmount: 0
   
   # Social media sharing on blog posts -----
   socialShare:
@@ -119,20 +119,20 @@ menu:
       pre: <i class='far fa-keyboard'></i>
       url: blog
       weight: 3
-    - identifier: categories
-      name: Research
-      pre: <i class='fas fa-chart-area'></i>
-      url: categories
-      weight: 5
-    - identifier: communication
-      name: Graphics & Shiny
+    # - identifier: research
+    #   name: Research
+    #   pre: <i class='fas fa-chart-area'></i>
+    #   url: research
+    #   weight: 5
+    - identifier: graphics-shiny
+      name: Graphics & Shiny Apps
       pre: <i class='fas fa-sitemap'></i>
-      url: categories
+      url: graphics-shiny
       weight: 6
     - identifier: photography
       name: Photography
       pre: <i class='fas fa-image'></i>
-      url: categories
+      url: "https://katmillage.smugmug.com/"
       weight: 6
     # - identifier: contact
     #   name: Contact
