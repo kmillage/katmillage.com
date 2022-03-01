@@ -1,0 +1,226 @@
+# General 
+baseurl: https://hugo-future-imperfect-slim.netlify.app/
+DefaultContentLanguage: en
+title: Kat Millage
+theme: hugo-future-imperfect-slim
+paginate: 3
+disqusShortname: ''
+googleAnalytics: ''
+pluralizeListTitles: no
+disableLanguages: []
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+module:
+  hugoVersion:
+    extended: yes
+    min: 0.62.0
+outputs:
+  home:
+    - html
+    - json
+
+### Global parameters
+params:
+  cssFiles: [default]
+  enableCDN: no
+  
+  # Footer
+  footer:
+    rssFooter: no # Do you want to show the thing that looks like an antena? 
+    socialFooter: no # Do you want to show the social media icons in the footer?
+  
+  # Header
+  header:
+    dynamicTitles: no # Do you want the title bar to update on each page?
+    languageMenu: no # Show language menu?
+    navbarTitle: 'Kat Millage' # Text for top left box of header bar
+    searchMenu: no # Show search bar?
+    shareMenu: no # Show share menu?
+  hideEmptyStats: yes # Don't know where this goes yet...
+  highlightjs: yes
+  highlightjsLang: []
+  highlightjsTheme: ''
+  imageStretch: ''
+  
+  # Introduction (left panel)
+  intro:
+    alwaysOnHomepage: no
+    header: Kat Millage # Large text for underneath picture
+    hideWhenSingleColumn: no
+    paragraph: Fisheries | marine conservation | data science | science communication
+    pic:
+      alt: Kat Millage # Alternative text for the picture
+      shape: circle
+      src: img/main/kat.jpg
+      width: '200' # Width of picture in pixels
+    rssIntro: yes
+    socialIntro: yes
+  jsFiles: [default]
+  meta:
+    author: HTML5UP and Hugo
+    description: A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced
+      by Patrick Collins. Modified by Kat Millage. Powered by Hugo.
+    favicon: no
+    faviconVersion: '1'
+    iOSColor: '#ffffff'
+    msColor: '#ffffff'
+    svg: yes
+  readingTime: no
+  removeBlur: no
+  
+  # Sidebar
+  sidebar:
+    about: '' # Text under the about section...
+    categories: no # Show categories section? 
+    categoriesByCount: no # Show counts of posts by categories?
+    postAmount: 5
+  
+  # Social media sharing on blog posts -----
+  socialShare:
+    
+  staticman:
+    api: ''
+    branch: ''
+    enabled: no # Don't know what this is, so let's turn it off
+    gitProvider: ''
+    recaptcha:
+      encryptedKey: ''
+      siteKey: ''
+    repo: ''
+    username: ''
+  toc: yes
+  tocWords: 400
+  utterances:
+    enabled: no
+    issueNumber: ''
+    issueTerm: pathname
+    label: ''
+    repo: ''
+    theme: github-light
+  viewMorePostsLink: blog
+
+### Top Menu Bar -----
+menu:
+  main:
+    - identifier: home
+      name: ''
+      pre: <i class='fa fa-home'></i>
+      url: ''
+      weight: 1
+    - identifier: about
+      name: About
+      pre: <i class='far fa-id-card'></i>
+      url: about
+      weight: 2
+    - identifier: blog
+      name: Blog
+      pre: <i class='far fa-keyboard'></i>
+      url: blog
+      weight: 3
+    - identifier: categories
+      name: Research
+      pre: <i class='fas fa-chart-area'></i>
+      url: categories
+      weight: 5
+    - identifier: communication
+      name: Graphics & Shiny
+      pre: <i class='fas fa-sitemap'></i>
+      url: categories
+      weight: 6
+    - identifier: photography
+      name: Photography
+      pre: <i class='fas fa-image'></i>
+      url: categories
+      weight: 6
+    # - identifier: contact
+    #   name: Contact
+    #   pre: <i class='far fa-envelope'></i>
+    #   url: contact
+    #   weight: 7
+
+# Language support ----- (NOT USING, BUT KEEPING FOR REFERENCE)
+Languages:
+  en:
+    LanguageCode: en
+    LanguageName: English
+    weight: 1
+  pt:
+    LanguageCode: pt
+    LanguageName: Português
+    description: Um tema do HTML5 UP, portado por Julio Pescadora e reduzido por Patrick
+      Collins. Multilíngue por StatnMap. Feito com Hugo.
+    menu:
+      main:
+        - identifier: home
+          name: Início
+          pre: <i class='fas fa-home'></i>
+          url: ''
+          weight: 1
+        - identifier: about
+          name: Sobre
+          pre: <i class='far fa-id-card'></i>
+          url: about
+          weight: 2
+        - identifier: blog
+          name: Blog
+          pre: <i class='far fa-newspaper'></i>
+          url: blog
+          weight: 3
+        - identifier: categories
+          name: Categorias
+          pre: <i class='fas fa-sitemap'></i>
+          url: categories
+          weight: 5
+        # - identifier: contact
+        #   name: Contato
+        #   pre: <i class='far fa-envelope'></i>
+        #   url: contact
+        #   weight: 6
+    title: Hugo Future Imperfect Slim em português
+    weight: 4
+
+# Social Media Icons -----
+social:
+  behance: ''
+  bitbucket: ''
+  codepen: ''
+  deviantart: ''
+  dribbble: ''
+  email: 'millagek@gmail.com'
+  facebook: ''
+  flickr: ''
+  foursquare: ''
+  github: 'https://github.com/kmillage'
+  gitlab: ''
+  googleplus: ''
+  googlescholar: 'https://scholar.google.com/citations?user=zLhDVsAAAAAJ&hl=en'
+  instagram: 'https://www.instagram.com/katmillage/?hl=en'
+  jsfiddle: ''
+  keybase: ''
+  linkedin: 'https://www.linkedin.com/in/katherine-millage-b27b3b70/'  
+  linkedin_company: ''
+  mastodon: ''
+  medium: ''
+  orcid: ''
+  pinterest: ''
+  qq: ''
+  quora: ''
+  reddit: ''
+  researchgate: ''
+  skype: ''
+  slideshare: ''
+  snapchat: ''
+  stackoverflow: ''
+  strava: ''
+  telegram: ''
+  tumblr: ''
+  twitter: 'https://twitter.com/KatMillage'
+  vimeo: ''
+  vine: ''
+  wechat: ''
+  whatsapp: ''
+  wordpress: ''
+  xing: ''
+  youtube: ''

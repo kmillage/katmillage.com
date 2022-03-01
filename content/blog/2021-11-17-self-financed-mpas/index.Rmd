@@ -1,0 +1,16 @@
+---
+title: "Self-financed marine protected areas"
+author: "Kat Millage"
+description: "New paper published in Environmental Research Letters!"
+date: 2021-11-17T21:13:14-05:00
+categories: ["Publications"]
+tags: ["enforcement", "environmental institutions", "marine conservation", "marine reserves", "market-based interventions", "sustainable financing", "sustainable development goals"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+### About the Paper 
+
+In our new paper, just published in Environmental Research Letters, we propose a new institution to finance enforcmeent of marine protected areas (MPAs)---a 'conservation finance area' (CFA)---where limited fishing leases are allowed and the lease money finances enforcmeent of the MPA.
