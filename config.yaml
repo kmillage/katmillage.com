@@ -1,5 +1,5 @@
 # General 
-baseurl: https://hugo-future-imperfect-slim.netlify.app/
+baseurl: https://www.katmillage.com/
 DefaultContentLanguage: en
 title: Kat Millage
 theme: hugo-future-imperfect-slim
@@ -23,7 +23,7 @@ outputs:
 
 ### Global parameters
 params:
-  cssFiles: [default]
+  cssFiles: ["default", "static/css/image-modal.css"]
   enableCDN: no
   
   # Footer
@@ -39,7 +39,7 @@ params:
     searchMenu: no # Show search bar?
     shareMenu: no # Show share menu?
   hideEmptyStats: yes # Don't know where this goes yet...
-  highlightjs: yes
+  highlightjs: no
   highlightjsLang: []
   highlightjsTheme: ''
   imageStretch: ''
@@ -72,7 +72,7 @@ params:
   
   # Sidebar
   sidebar:
-    about: '' # Text under the about section...
+    about: 'Kat Millage is a researcher at the Enivonmental Markets Lab (emLab) at the University of California, Santa Barbara.' # Text under the about section...
     categories: no # Show categories section? 
     categoriesByCount: yes # Show counts of posts by categories?
     postAmount: 0
@@ -80,6 +80,7 @@ params:
   # Social media sharing on blog posts -----
   socialShare:
     
+  # No idea what staticman is...  
   staticman:
     api: ''
     branch: ''

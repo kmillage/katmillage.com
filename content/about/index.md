@@ -6,11 +6,9 @@ layout: about
 title: About
 ---
 
-I’m currently a researcher with the [Environmental Market Solutions Lab (emLab)](https://emlab.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/). This site is a place for me to share materials related to my professional activities in the realms of fisheries management, marine conservation, data science, and science communications. If you’re looking for my photography, please visit [my photography site](https://katmillage.smugmug.com/)!
+I’m currently a researcher with the [Environmental Market Solutions Lab (emLab)](https://emlab.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/). This site is a place for me to share materials related to my professional activities in the realms of fisheries management, marine conservation, data science, and science communications. I mostly use this [blog](#blog) to highlight recent publications that I was part of and presentations or workshops that I led. On occasion, I may highlight code or data-science problems that came up in my work and any  solutions I found to overcome them. If you’re looking for my photography, please visit [my photography site](https://katmillage.smugmug.com/)!
 
-### Blog
-
-I mostly use this [blog](#blog) to highlight recent publications that I was part of and presentations or workshops that I led. On occasion, I may highlight code or data-science problems that came up in my work and any  solutions I found to overcome them. 
+<hr>
 
 ### Research 
 
@@ -31,6 +29,8 @@ I received my B.A. in Biochemistry with a minor in Environmental Science from th
 * Ovando, D., Libecap, G. D., ***Millage, K. D.***, & Thomas, L. (2020). Coasean Approaches to Address Overfishing: Bigeye Tuna Conservation in the Western and Central Pacific Ocean. Marine Resource Economics, 36(1), 91–109. https://doi.org/10.1086/711853
 
 * Costello, C., ***Millage, K.***, Eisenbarth, S., Galarza, E., Ishimura, G., Rubino, L. L., Saccomanno, V., Sumaila, U. R., & Strauss, K. (2020). Ambitious subsidy reform by the WTO presents opportunities for ocean health restoration. Sustainability Science. https://doi.org/10.1007/s11625-020-00865-z
+
+<hr>
 
 ### Consulting
 

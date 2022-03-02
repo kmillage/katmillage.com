@@ -4,3 +4,12 @@
   is an official part of the theme (ex. Pull Requests) should be included in main.css
   and follow the formatting and style given.
 */
+
+table {
+    width: 100%;
+    box-shadow: 0 0 0;
+}
+
+table>tbody>tr>td:first-child  {
+  font-weight: normal;
+}
