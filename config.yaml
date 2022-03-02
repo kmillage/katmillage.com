@@ -57,16 +57,17 @@ params:
       width: '200' # Width of picture in pixels
     rssIntro: no
     socialIntro: yes
+    
   jsFiles: [default]
+  
   meta:
-    author: HTML5UP and Hugo
-    description: A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced
-      by Patrick Collins. Destroyed by Kat Millage. Powered by Hugo.
-    favicon: no
-    faviconVersion: '1'
+    author: Kat Millage
+    description: Kat Millage is a researcher at the Enivonmental Markets Lab (emLab) at the University of California, Santa Barbara.
+    favicon: true
+    faviconVersion: '2'
     iOSColor: '#ffffff'
     msColor: '#ffffff'
-    svg: yes
+    svg: no
   readingTime: no
   removeBlur: no
   
@@ -106,7 +107,7 @@ params:
 menu:
   main:
     - identifier: home
-      name: ''
+      name: 'Home'
       pre: <i class='fa fa-home'></i>
       url: ''
       weight: 1
