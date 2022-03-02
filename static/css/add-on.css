@@ -5,11 +5,42 @@
   and follow the formatting and style given.
 */
 
+/* General Table Behavior */
 table {
     width: 100%;
     box-shadow: 0 0 0;
 }
 
+table:selection {
+    background: none;
+    text-shadow: none;
+}
+
+table>tbody>tr:hover {
+  background-color: #ffffff;
+}
+
+table>tbody>tr:nth-child(even):hover {
+  background-color: #f5f5f5;
+}
+
 table>tbody>tr>td:first-child  {
   font-weight: normal;
+}
+
+/* Mini Image Gallery Behavior */
+table#graphics>tbody>tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+table#graphics>tbody>tr:nth-child(even):hover {
+  background-color: #ffffff;
+}
+
+img.gallery {
+  border: 2px black solid;
+}
+
+img.gallery:hover {
+  filter: brightness(75%);
 }

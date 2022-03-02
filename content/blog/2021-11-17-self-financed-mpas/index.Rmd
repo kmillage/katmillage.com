@@ -4,7 +4,7 @@ author: "Kat Millage"
 description: "New paper published in Environmental Research Letters!"
 date: 2021-11-17T21:13:14-05:00
 categories: ["Publications"]
-tags: ["enforcement", "environmental institutions", "marine conservation", "marine reserves", "market-based interventions", "sustainable financing", "sustainable development goals"]
+tags: []
 images: [src: "/blog/2021-11-17-self-financed-mpas/header.jpeg"]
 ---
 
@@ -14,7 +14,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ### About the Paper 
 
-A new paper that I led in collaboration with Juan Carlos Villaseñor-Derbez, Darcy Bradley, Matthew Burgess, Hunter Lenihan, and Christopher Costello was just published in Environmental Research Letters! In [this new paper](https://iopscience.iop.org/article/10.1088/1748-9326/ac3439) entitled "Self-financed marine protected areas" we propose a new institution to finance enforcement of marine protected areas (MPAs)---a 'conservation finance area' (CFA)---where limited fishing leases are allowed and the lease money finances enforcement of the MPA. 
+In a new paper just published in Environmental Research Letters, myself and coauthors Juan Carlos Villaseñor-Derbez, Darcy Bradley, Matthew Burgess, Hunter Lenihan, and Christopher Costello propose a new institution to finance enforcement of marine protected areas. Our paper entitled ["Self-financed marine protected areas"](https://iopscience.iop.org/article/10.1088/1748-9326/ac3439) shows how this new institution---a 'conservation finance area' (CFA)---can help to remedy poaching in a MPA by allowing limited fishing leases and using the lease money to finance enforcement of the MPA. 
 
 ![](Fig1.png)
 
