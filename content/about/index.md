@@ -14,7 +14,7 @@ I’m currently a researcher with the [Environmental Market Solutions Lab (emLab
 
 I develop bioeconomic models and data-driven tools to help inform the management of marine resources. Much of my work bridges marine ecology and fisheries economics and I have worked with many different types of fisheries and across many different geographic regions. Much of my current work is focusing on developing sustainable finance solutions for conservation and assessing the conservation and economic impacts of marine protected areas. Some of my past research has included analyzing the tradeoffs of reforming fisheries subsidies to inform the World Trade Organization negotiations, developing fisheries management plans for Pacific Island tuna fisheries, and working with local stakeholders to better design and manage marine protected areas.
 
-<p style="text-align: center;"><a href="2022_02_kat_millage_CV.pdf" download><big><strong>Download my CV</big></strong></a></p>
+<p style="text-align: center;"><a href="2022_02_17_kat_millage_CV_web.pdf" download><big><strong>Download my CV</big></strong></a></p>
 
 I received my B.A. in Biochemistry with a minor in Environmental Science from the University of San Diego. After completing my undergraduate degree, I worked in pharmaceutical development for a short time before moving to the Turks and Caicos Islands to pursue my interest in the marine environment. I later returned to school and received a Master’s degree in Environmental Science and Management with a focus on Coastal Marine Resource Management from the Bren School at UCSB.
 
