@@ -6,7 +6,7 @@ layout: about
 title: App Development & Graphic Design
 ---
 
-Much of my professional work is geared towards fishery managers and other stakeholders, and I regularly create products to make the the findings of my work more accessible to non-academic audiences and to serve as decision-support tools for managers. These types of products include illustrative graphics, technical reports, and interactive web-based applications built using *Shiny*.
+Much of my professional work is geared towards informing fishery managers and other fishery stakeholders, and thus I regularly create visualizations and tools to make the the findings of my work more accessible to non-academic audiences. These types of products include illustrative graphics, technical reports, and interactive web-based applications built using *Shiny*.
 
 <hr>
 
@@ -28,7 +28,7 @@ I have also developed and contributed to a number of other *Shiny* apps that are
 
 ### Graphics
 
-Many of the infographics, conceptual diagrams, and other graphics I make are intended to serve as figures or visual abstracts for scientific papers and are highlighted in my publication summaries. The following are a few examples of the types of graphics I have created (click on the image to open a larger version):
+Many of the infographics, conceptual diagrams, and other graphics I make are figures or visual abstracts for scientific papers or presentations. The following are a few examples of the types of graphics I have created (click on the image to open a larger version):
 
 <table id="graphics">
   <tr>
